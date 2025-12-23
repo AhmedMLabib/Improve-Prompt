@@ -23,13 +23,19 @@ Why This Project
 This task demonstrates:
 
 ✔ Product thinking & UX focus
+
 ✔ A real full-stack implementation
+
 ✔ Clean frontend experience (Angular)
+
 ✔ Practical and usable output
+
 ✔ Backend logic with dynamic prompt templates
 
 Built With
+
 Frontend
+
 Angular 20
 
 Bootstrap
@@ -38,18 +44,6 @@ Backend
 Node.js
 
 Express
-
-Folder Structure
-text
-Improve-Prompt/
-├── backend/ # Node.js + Express API
-│ ├── index.js
-│ └── package.json
-├── frontend/ # Angular app
-│ ├── src/
-│ └── angular.json
-├── .gitignore
-└── README.md
 Getting Started
 Clone the repository
 
